@@ -1,7 +1,7 @@
 # GreenLife - Gestor de consumo energético
 
 ## Descripción
-Aplicación para monitorizar y optimizar el consumo energético de hogares y empresas.
+Aplicación para monitorizar y optimizar el consumo energético de hogares y empresas...
 
 ## Estado del proyecto
 🚧 En desarrollo
