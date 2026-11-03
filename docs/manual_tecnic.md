@@ -1,7 +1,7 @@
 # Manual tecnico - GreenLife
 
 ## Arquitectura
-Aplicación cliente-servidor con API REST.
+Aplicación cliente-servidor con API REST..
 
 ## Tecnologías
 - Backend: Node.js
